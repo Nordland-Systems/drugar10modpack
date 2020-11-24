@@ -1,14 +1,14 @@
-name: Zip Files
-
-on:
-  push:
-
+name: Create Archive
+on: [push]
 jobs:
-  zip-files:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: papeloto/action-zip@v1
-        with:
-          files: drugar10/
-          dest: drugarMods.zip
+    - uses: actions/checkout@master
+    - name: Archive Release
+      uses: thedoctor0/zip-release@master
+      with:
+        filename: 'drugarMods.zip'
+        path: '/'
+        directory: 'drugar10/'
+        exclusions: '*.git* /*node_modules/* .editorconfig'
