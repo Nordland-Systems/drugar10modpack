@@ -13,4 +13,4 @@ popd
 echo Relative path: %REL_PATH%
 echo Maps to path: %ABS_PATH%
 
-CScript  zip.vbs  %ABS_PATH%\drugar10  %ABS_PATH%\drugar10Mods.zip
+CScript  zipper.vbs  %ABS_PATH%\drugar10  %ABS_PATH%\drugar10Mods.zip
