@@ -19,3 +19,4 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         WITH_V: true
+        INITIAL_VERSION: 10.5.0
