@@ -30,6 +30,7 @@ Curios API - TheIllusiveC4 - https://www.curseforge.com/minecraft/mc-mods/curios
 Dark Utilities - DarkhaxDev - https://www.curseforge.com/minecraft/mc-mods/dark-utilities
 Decorative Blocks - stohun - https://www.curseforge.com/minecraft/mc-mods/decorative-blocks#c100
 Ding - ohaiiChun - https://www.curseforge.com/minecraft/mc-mods/ding
+Doggy Talents - percivalalb - https://www.curseforge.com/minecraft/mc-mods/doggy-talents
 Double Slabs - CJMinecraft01 - https://www.curseforge.com/minecraft/mc-mods/double-slabs
 Dungeon Crawl - XIROC1337 - https://www.curseforge.com/minecraft/mc-mods/dungeon-crawl#c311
 
@@ -40,6 +41,7 @@ Extended Lights - Polyvalord - https://www.curseforge.com/minecraft/mc-mods/exte
 = F =
 Fast Leaf Decay - olafskiii - https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay
 Forge - https://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.16.4.html
+FTB Gui Library - FTB - https://www.curseforge.com/minecraft/mc-mods/ftb-chunks
 
 = G =
 Gauges and Switches - wilechaote - https://www.curseforge.com/minecraft/mc-mods/redstone-gauges-and-switches
@@ -47,6 +49,7 @@ GraveStone Mod - henkelmax - https://www.curseforge.com/minecraft/mc-mods/graves
 
 = I =
 iChunUtil - ohaiiChun - https://www.curseforge.com/minecraft/mc-mods/ichunutil
+Immersive Engineering - BluSunrize - https://www.curseforge.com/minecraft/mc-mods/immersive-engineering
 Immersive Portals - qouteall - https://www.curseforge.com/minecraft/mc-mods/immersive-portals-for-forge
 Industrial Foregoing - Buuz135 - https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing
 Inventory Tweaks Renewed - David1544 - https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks-renewed
@@ -73,7 +76,7 @@ Miner's Helmet - ModdingLegacy - https://www.curseforge.com/minecraft/mc-mods/mi
 Mod Name Tooltip - mezz - https://www.curseforge.com/minecraft/mc-mods/mod-name-tooltip
 Morpheus - Quetzi - https://www.curseforge.com/minecraft/mc-mods/morpheus
 Mouse Tweaks - YaLTeR - https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks
-MrCrayfishs Furniture Mod - MrCrayfish - https://mrcrayfish.com/mods?id=cfm
+MrCrayfishs Furniture Mod - MrCrayfish - https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod
 Mystical Agriculture - BlakeBr0 - https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture
 
 = N =
