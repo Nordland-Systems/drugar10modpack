@@ -21,6 +21,7 @@ Clumps - Jaredlll08 - https://www.curseforge.com/minecraft/mc-mods/clumps
 Cloth Config API - shedaniel - https://www.curseforge.com/minecraft/mc-mods/cloth-config-forge
 Comforts - TheIllusiveC4 - https://www.curseforge.com/minecraft/mc-mods/comforts
 Construction Wand - ThetaDev - https://www.curseforge.com/minecraft/mc-mods/construction-wand
+Controlling - Jaredlll08 - https://www.curseforge.com/minecraft/mc-mods/controlling
 Cooking for Blockheads - BlayTheNinth - https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads
 Crash Utilities - Darkere - https://www.curseforge.com/minecraft/mc-mods/crash-utilities
 Cucumber Library - BlakeBr0 - https://www.curseforge.com/minecraft/mc-mods/cucumber
@@ -59,6 +60,7 @@ Iron Chests - ProgWML6 - https://www.curseforge.com/minecraft/mc-mods/iron-chest
 
 = J =
 Just Enough Items (JEI) - mezz - https://www.curseforge.com/minecraft/mc-mods/jei
+Just Enough Resources (JER) - way2muchnoise - https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer
 
 = L =
 Light Overlay - shedaniel - https://www.curseforge.com/minecraft/mc-mods/light-overlay
@@ -79,9 +81,11 @@ Mod Name Tooltip - mezz - https://www.curseforge.com/minecraft/mc-mods/mod-name-
 Morpheus - Quetzi - https://www.curseforge.com/minecraft/mc-mods/morpheus
 Mouse Tweaks - YaLTeR - https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks
 MrCrayfishs Furniture Mod - MrCrayfish - https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod
+Mystical Agradditions - BlakeBr0 - https://www.curseforge.com/minecraft/mc-mods/mystical-agradditions
 Mystical Agriculture - BlakeBr0 - https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture
 
 = N =
+Nature Compass - Chaosyr - https://www.curseforge.com/minecraft/mc-mods/natures-compass
 Neat - Vazkii - https://www.curseforge.com/minecraft/mc-mods/neat
 
 = O =
