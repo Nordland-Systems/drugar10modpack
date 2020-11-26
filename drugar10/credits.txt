@@ -39,6 +39,7 @@ Engineer's Decor - wilechaote - https://www.curseforge.com/minecraft/mc-mods/eng
 Extended Lights - Polyvalord - https://www.curseforge.com/minecraft/mc-mods/extended-lights-mod
 
 = F =
+Falling Tree - RakSrinaNa - https://www.curseforge.com/minecraft/mc-mods/falling-tree
 Fast Leaf Decay - olafskiii - https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay
 Forge - https://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.16.4.html
 FTB Chunks - FTB - https://www.curseforge.com/minecraft/mc-mods/ftb-chunks
