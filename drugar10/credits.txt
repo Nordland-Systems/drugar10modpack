@@ -52,9 +52,6 @@ FTB Gui Library - FTB - https://www.curseforge.com/minecraft/mc-mods/ftb-chunks
 Gauges and Switches - wilechaote - https://www.curseforge.com/minecraft/mc-mods/redstone-gauges-and-switches
 GraveStone Mod - henkelmax - https://www.curseforge.com/minecraft/mc-mods/gravestone-mod
 
-= H =
-Hide Armor - Furgle - https://www.curseforge.com/minecraft/mc-mods/hide-armor/files
-
 = I =
 iChunUtil - ohaiiChun - https://www.curseforge.com/minecraft/mc-mods/ichunutil
 Immersive Engineering - BluSunrize - https://www.curseforge.com/minecraft/mc-mods/immersive-engineering
