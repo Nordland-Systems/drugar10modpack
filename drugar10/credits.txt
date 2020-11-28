@@ -129,7 +129,6 @@ Titanium - hrznstudio - https://www.curseforge.com/minecraft/mc-mods/titanium
 Torch Slabs Mod - EndlesNights - https://www.curseforge.com/minecraft/mc-mods/torchslabs-mod
 Torchmaster - xalcon - https://www.curseforge.com/minecraft/mc-mods/torchmaster
 Trash Cans - SuperMartijn642 - https://www.curseforge.com/minecraft/mc-mods/trash-cans
-Tree Growing Simulator - tterrag1098 - https://www.curseforge.com/minecraft/mc-mods/tree-growing-simulator
 
 = U =
 Ultimate Car Mod - henkelmax - https://www.curseforge.com/minecraft/mc-mods/ultimate-car-mod
