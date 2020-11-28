@@ -36,6 +36,7 @@ Double Slabs - CJMinecraft01 - https://www.curseforge.com/minecraft/mc-mods/doub
 Dungeon Crawl - XIROC1337 - https://www.curseforge.com/minecraft/mc-mods/dungeon-crawl#c311
 
 = E =
+Ender Storage 1.8.+ - covers1624 - https://www.curseforge.com/minecraft/mc-mods/ender-storage-1-8
 Engineer's Decor - wilechaote - https://www.curseforge.com/minecraft/mc-mods/engineers-decor
 Extended Lights - Polyvalord - https://www.curseforge.com/minecraft/mc-mods/extended-lights-mod
 
@@ -49,6 +50,9 @@ FTB Gui Library - FTB - https://www.curseforge.com/minecraft/mc-mods/ftb-chunks
 = G =
 Gauges and Switches - wilechaote - https://www.curseforge.com/minecraft/mc-mods/redstone-gauges-and-switches
 GraveStone Mod - henkelmax - https://www.curseforge.com/minecraft/mc-mods/gravestone-mod
+
+= H =
+Hide Armor - Furgle - https://www.curseforge.com/minecraft/mc-mods/hide-armor/files
 
 = I =
 iChunUtil - ohaiiChun - https://www.curseforge.com/minecraft/mc-mods/ichunutil
@@ -116,6 +120,7 @@ Silent Lib - SilentChaos512 - https://www.curseforge.com/minecraft/mc-mods/silen
 Simple Farming - enemeez1 - https://www.curseforge.com/minecraft/mc-mods/simple-farming
 Simple Magnets - SuperMartijn642 - https://www.curseforge.com/minecraft/mc-mods/simple-magnets
 Sit - bl4ckscor3 - https://www.curseforge.com/minecraft/mc-mods/sit
+Storage Drawers - Texelsaur - https://www.curseforge.com/minecraft/mc-mods/storage-drawers
 
 = T =
 The One Probe - McJty - https://www.curseforge.com/minecraft/mc-mods/the-one-probe
@@ -123,6 +128,7 @@ Titanium - hrznstudio - https://www.curseforge.com/minecraft/mc-mods/titanium
 Torch Slabs Mod - EndlesNights - https://www.curseforge.com/minecraft/mc-mods/torchslabs-mod
 Torchmaster - xalcon - https://www.curseforge.com/minecraft/mc-mods/torchmaster
 Trash Cans - SuperMartijn642 - https://www.curseforge.com/minecraft/mc-mods/trash-cans
+Tree Growing Simulator - tterrag1098 - https://www.curseforge.com/minecraft/mc-mods/tree-growing-simulator
 
 = U =
 Ultimate Car Mod - henkelmax - https://www.curseforge.com/minecraft/mc-mods/ultimate-car-mod
@@ -130,6 +136,7 @@ Useful Backpacks - HyCraftHD - https://www.curseforge.com/minecraft/mc-mods/usef
 U Team Core - HyCraftHD - https://www.curseforge.com/minecraft/mc-mods/u-team-core
 
 = W =
+Wall-Jump! - genandnic - https://www.curseforge.com/minecraft/mc-mods/wall-jump
 Wetstone - legobmw99 - https://www.curseforge.com/minecraft/mc-mods/wetstone
 Wyrmroost - Kingdomall - https://www.curseforge.com/minecraft/mc-mods/wyrmroost
 
