@@ -44,8 +44,6 @@ Extended Lights - Polyvalord - https://www.curseforge.com/minecraft/mc-mods/exte
 Falling Tree - RakSrinaNa - https://www.curseforge.com/minecraft/mc-mods/falling-tree
 Fast Leaf Decay - olafskiii - https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay
 Forge - https://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.16.4.html
-FTB Chunks - FTB - https://www.curseforge.com/minecraft/mc-mods/ftb-chunks
-FTB Gui Library - FTB - https://www.curseforge.com/minecraft/mc-mods/ftb-chunks
 
 = G =
 Gauges and Switches - wilechaote - https://www.curseforge.com/minecraft/mc-mods/redstone-gauges-and-switches
