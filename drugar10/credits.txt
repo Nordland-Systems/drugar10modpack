@@ -13,6 +13,7 @@ Better Muffling - Korti11 - https://www.curseforge.com/minecraft/mc-mods/better-
 Better Title Screen - Girafi - https://www.curseforge.com/minecraft/mc-mods/better-title-screen
 Biomes O' Plenty - Forstride - https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty
 Bookshelf - DarkhaxDev - https://www.curseforge.com/minecraft/mc-mods/bookshelf
+Builders Crafts & Additions - MRHminer - https://www.curseforge.com/minecraft/mc-mods/buildersaddition
 
 = C =
 CC: Tweaked - SquidDev - https://www.curseforge.com/minecraft/mc-mods/cc-tweaked
