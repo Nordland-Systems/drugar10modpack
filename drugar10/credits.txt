@@ -96,7 +96,6 @@ OptiFine - https://www.optifine.net/home
 Pam's HarvestCraft 2-Food Core - Pamela Collins (MatrexsVigil) and Rhodox - https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-core
 PneumaticCraft: Repressurized - desht_08 - https://www.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized
 Polymorph - TheIllusiveC4 - https://www.curseforge.com/minecraft/mc-mods/polymorph
-Powah! - owmii - https://www.curseforge.com/minecraft/mc-mods/powah
 
 = Q =
 Quark - Vazkii - https://www.curseforge.com/minecraft/mc-mods/quark
