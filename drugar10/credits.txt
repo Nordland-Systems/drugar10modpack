@@ -20,7 +20,6 @@ CC: Tweaked - SquidDev - https://www.curseforge.com/minecraft/mc-mods/cc-tweaked
 Citadel - alex1the1666 - https://www.curseforge.com/minecraft/mc-mods/citadel
 Clumps - Jaredlll08 - https://www.curseforge.com/minecraft/mc-mods/clumps
 Cloth Config API - shedaniel - https://www.curseforge.com/minecraft/mc-mods/cloth-config-forge
-CodeChicken Lib - covers1624 - https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8
 Comforts - TheIllusiveC4 - https://www.curseforge.com/minecraft/mc-mods/comforts
 Construction Wand - ThetaDev - https://www.curseforge.com/minecraft/mc-mods/construction-wand
 Controlling - Jaredlll08 - https://www.curseforge.com/minecraft/mc-mods/controlling
@@ -38,7 +37,6 @@ Double Slabs - CJMinecraft01 - https://www.curseforge.com/minecraft/mc-mods/doub
 Dungeon Crawl - XIROC1337 - https://www.curseforge.com/minecraft/mc-mods/dungeon-crawl#c311
 
 = E =
-Ender Storage - covers1624 - https://www.curseforge.com/minecraft/mc-mods/ender-storage-1-8
 Engineer's Decor - wilechaote - https://www.curseforge.com/minecraft/mc-mods/engineers-decor
 Extended Lights - Polyvalord - https://www.curseforge.com/minecraft/mc-mods/extended-lights-mod
 
@@ -56,7 +54,6 @@ GraveStone Mod - henkelmax - https://www.curseforge.com/minecraft/mc-mods/graves
 = I =
 iChunUtil - ohaiiChun - https://www.curseforge.com/minecraft/mc-mods/ichunutil
 Immersive Engineering - BluSunrize - https://www.curseforge.com/minecraft/mc-mods/immersive-engineering
-Immersive Portals - qouteall - https://www.curseforge.com/minecraft/mc-mods/immersive-portals-for-forge
 Industrial Foregoing - Buuz135 - https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing
 Inventory Tweaks Renewed - David1544 - https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks-renewed
 Iron Chests - ProgWML6 - https://www.curseforge.com/minecraft/mc-mods/iron-chests
