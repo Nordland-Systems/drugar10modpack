@@ -131,7 +131,3 @@ U Team Core - HyCraftHD - https://www.curseforge.com/minecraft/mc-mods/u-team-co
 Wall-Jump! - genandnic - https://www.curseforge.com/minecraft/mc-mods/wall-jump
 Wetstone - legobmw99 - https://www.curseforge.com/minecraft/mc-mods/wetstone
 Wyrmroost - Kingdomall - https://www.curseforge.com/minecraft/mc-mods/wyrmroost
-
-= X =
-Xaero's Minimap - xaero96 - https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap
-Xaero's World Map - xaero96 - https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map
