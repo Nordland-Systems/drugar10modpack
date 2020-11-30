@@ -62,6 +62,9 @@ Iron Chests - ProgWML6 - https://www.curseforge.com/minecraft/mc-mods/iron-chest
 Just Enough Items (JEI) - mezz - https://www.curseforge.com/minecraft/mc-mods/jei
 Just Enough Resources (JER) - way2muchnoise - https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer
 
+= K =
+KubeJS - Forge_User_93639700 - https://www.curseforge.com/minecraft/mc-mods/kubejs
+
 = L =
 Light Overlay - shedaniel - https://www.curseforge.com/minecraft/mc-mods/light-overlay
 Lollipop - owmii - https://www.curseforge.com/minecraft/mc-mods/lollipop
