@@ -18,6 +18,7 @@ Builders Crafts & Additions - MRHminer - https://www.curseforge.com/minecraft/mc
 
 = C =
 CC: Tweaked - SquidDev - https://www.curseforge.com/minecraft/mc-mods/cc-tweaked
+Chisels & Bits - AlgorithmX2 - https://www.curseforge.com/minecraft/mc-mods/chisels-bits
 Citadel - alex1the1666 - https://www.curseforge.com/minecraft/mc-mods/citadel
 Clumps - Jaredlll08 - https://www.curseforge.com/minecraft/mc-mods/clumps
 Cloth Config API - shedaniel - https://www.curseforge.com/minecraft/mc-mods/cloth-config-forge
@@ -109,6 +110,7 @@ Rats - alex1the1666 - https://www.curseforge.com/minecraft/mc-mods/rats
 ReAuth - TechnicianLP - https://www.curseforge.com/minecraft/mc-mods/reauth
 Refined Storage - raoulvdberge - https://www.curseforge.com/minecraft/mc-mods/refined-storage
 Refined Storage Addons - raoulvdberge - https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons
+Refined Storage: Requestify - Buuz135 - https://www.curseforge.com/minecraft/mc-mods/rs-requestify
 Rhino - Forge_User_93639700 - https://www.curseforge.com/minecraft/mc-mods/rhino
 Runelic - DarkhaxDev - https://www.curseforge.com/minecraft/mc-mods/runelic
 
