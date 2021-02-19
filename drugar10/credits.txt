@@ -119,16 +119,15 @@ Runelic - DarkhaxDev - https://www.curseforge.com/minecraft/mc-mods/runelic
 = S =
 Scuba Gear - ModdingLegacy - https://www.curseforge.com/minecraft/mc-mods/scuba-gear
 Security Craft - Geforce132 - https://www.curseforge.com/minecraft/mc-mods/security-craft
-Silent Gear - SilentChaos512 - https://www.curseforge.com/minecraft/mc-mods/silent-gear
 Silent Lib - SilentChaos512 - https://www.curseforge.com/minecraft/mc-mods/silent-lib
 Simple Farming - enemeez1 - https://www.curseforge.com/minecraft/mc-mods/simple-farming
 Simple Magnets - SuperMartijn642 - https://www.curseforge.com/minecraft/mc-mods/simple-magnets
 Sit - bl4ckscor3 - https://www.curseforge.com/minecraft/mc-mods/sit
 Storage Drawers - Texelsaur - https://www.curseforge.com/minecraft/mc-mods/storage-drawers
+SuperMartijn642's Config Lib - SuperMartijn642 - https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-config-lib
 
 = T =
 The One Probe - McJty - https://www.curseforge.com/minecraft/mc-mods/the-one-probe
-The Undergarden - Quek04 - https://www.curseforge.com/minecraft/mc-mods/the-undergarden
 Titanium - hrznstudio - https://www.curseforge.com/minecraft/mc-mods/titanium
 Torch Slabs Mod - EndlesNights - https://www.curseforge.com/minecraft/mc-mods/torchslabs-mod
 Torchmaster - xalcon - https://www.curseforge.com/minecraft/mc-mods/torchmaster
@@ -141,5 +140,4 @@ U Team Core - HyCraftHD - https://www.curseforge.com/minecraft/mc-mods/u-team-co
 
 = W =
 Wall-Jump! - genandnic - https://www.curseforge.com/minecraft/mc-mods/wall-jump
-Wetstone - legobmw99 - https://www.curseforge.com/minecraft/mc-mods/wetstone
 Wyrmroost - Kingdomall - https://www.curseforge.com/minecraft/mc-mods/wyrmroost
